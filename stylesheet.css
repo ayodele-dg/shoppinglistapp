@@ -23,3 +23,7 @@ header {
 .shopping ul {
     list-style-type: none;
 }
+.shopping > .delete {
+    float: right;
+    margin-top: -15px;
+}
